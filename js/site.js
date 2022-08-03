@@ -1,4 +1,4 @@
-//call hello world
+//set up parameters
 function HelloWorld(){
     alert("hello world");
 }
